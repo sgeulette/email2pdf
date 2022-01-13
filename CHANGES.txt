@@ -1,0 +1,12 @@
+Changelog
+=========
+
+
+0.10 (unreleased)
+----------------
+
+- Added timeout of 10 sec to retrieve external images
+- Handled wayland warning
+- Handle badly declared charsets in message body
+- Handle urls containing spaces
+
